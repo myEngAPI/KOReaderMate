@@ -11,6 +11,14 @@ KOReader的生词和标注导出软件，可用导出任意格式的生词或标
  
  **Linux**
 
+## 📥 下载地址
+
+
+https://github.com/myEngAPI/KOReaderMate/releases
+
+
+https://xiaosiji.lanzouw.com/b0nzsd9dc 密码:2qw7
+
 
 ## 🔧使用方法
 
