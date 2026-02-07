@@ -56,6 +56,10 @@ https://xiaosiji.lanzouw.com/b0nzsd9dc 密码:2qw7
 
   安装插件：https://github.com/gitalexcampos/koreader-Highlight-Sync
 
+## ▶️ 视频教程
+
+https://www.bilibili.com/video/BV1vtroBRE9B/
+
 
 ## ⚠️ 本软件不开源
 
